@@ -1,0 +1,17 @@
+p
+{
+    color: rebeccapurple;
+}
+
+.header-background
+{
+    background-color: black;
+    color: white;
+    text-decoration: dotted;
+}
+
+#bigger-font
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
